@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 3.565 s <<< FAILURE! - in TestSuite
+tes10(HPE.HybrisB2BWeb.RegressionTest)  Time elapsed: 0.104 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at HPE.HybrisB2BWeb.RegressionTest.tes10(RegressionTest.java:54)
+
+test6(HPE.HybrisB2BWeb.RegressionTest)  Time elapsed: 0.01 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at HPE.HybrisB2BWeb.RegressionTest.test6(RegressionTest.java:36)
+
