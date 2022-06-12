@@ -41,4 +41,9 @@ void test6() {
 void test7() {
 	System.out.println("Dummy scritps");
 }
+@Test
+void test8() {
+	System.out.println("Dummy scritps");
+}
+
 }
