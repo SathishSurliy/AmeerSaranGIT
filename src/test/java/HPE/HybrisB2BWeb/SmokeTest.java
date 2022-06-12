@@ -32,5 +32,13 @@ void test4() {
 void tes5() {
 	Assert.assertTrue(false);}
 
+@Test
+void test6() {
+	System.out.println("Dummy scritps");
+}
 
+@Test
+void test7() {
+	System.out.println("Dummy scritps");
+}
 }
